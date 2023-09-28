@@ -6,7 +6,6 @@
 
 # Generic file types
 # Data.
-*.csv
 *.xlsb
 *.xlsx
 *.txt
@@ -30,4 +29,3 @@
 *.rar
 *.mp4
 *.pdf
-*.jpg
