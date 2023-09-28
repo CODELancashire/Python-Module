@@ -1,0 +1,33 @@
+# This is an example of a .gitignore file.
+# As you might have guessed the # turns a line into a comment!
+
+# Specific file.
+# Git/hello.py
+
+# Generic file types
+# Data.
+*.csv
+*.xlsb
+*.xlsx
+*.txt
+*.json
+
+# Extras.
+*.cpg
+*.dbf
+*.prj
+*.shp
+*.shx
+*.grib
+*.idx
+*.cdsapirc
+
+# Images.
+*.svg
+*.png
+*.PNG
+*.gif
+*.rar
+*.mp4
+*.pdf
+*.jpg
